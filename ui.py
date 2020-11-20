@@ -1,11 +1,9 @@
 import tkinter as tk
 
 
-def number(self, parameter_list):
-    """
-    docstring
-    """
-    pass
+def number(self, int):
+
+    return int
 
 
 windows = tk.Tk()
